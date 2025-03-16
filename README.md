@@ -27,20 +27,6 @@
 ##
 
 <details closed>
-<summary align="center"><h2 ><img alt="GIF" src="./Image/handshake2.gif" width="25px"> Contato </h2></summary>
-<div id="badges" align="center">
-    <div align="center" height="60" width"80"> 
-
-  <a href="https://instagram.com/duarte.gdm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-duarte1010" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gduarte.study@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-</div>
-</details>  
-
-##
-
-<details closed>
     <summary align="center"><h2><img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> Linguagens e Ferramentas </h2></summary>
 <div align="center">
     <p></p> 
@@ -55,6 +41,22 @@
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
 </div>
 </details>
+
+##
+
+
+
+<details closed>
+<summary align="center"><h2 ><img alt="GIF" src="./Image/handshake2.gif" width="25px"> Contato </h2></summary>
+<div id="badges" align="center">
+    <div align="center" height="60" width"80"> 
+
+  <a href="https://instagram.com/duarte.gdm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-duarte1010" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gduarte.study@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+</div>
+</details>  
 
 ##
 
