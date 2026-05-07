@@ -1,14 +1,14 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header' width='100%'/>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&height=25%&lines=Olá! Meu nome é Gabriel.;Seja bem vindo!" alt="Typing SVG" /></a>
-</div> 
+</div>  -->
 
-<div align='center'>
+<!-- <div align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartegdm&show_icons=true&theme=tokyonight)](https://github.com/duartegdm/github-readme-stats)
 
-</div>
+</div> -->
 <br>
 <details closed>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Um pouco sobre mim </h2></summary>
@@ -62,7 +62,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duartegdm&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/duartegdm/duartegdm/blob/output/github-contribution-grid-snake.svg)
 
@@ -71,7 +70,7 @@
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
+<!-- <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a> -->
 </div>
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer' width='100%'/>
